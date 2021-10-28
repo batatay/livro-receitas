@@ -2,7 +2,7 @@
 
 Olá ! Bem vindo ao meu livro de receitas :wave:
 
--   [Strogonoff de frango]
--   [Salada Simples]
+-   Strogonoff de frango
+-   Salada Simples
 -   Bolo de Cenoura
 -   Pavê
